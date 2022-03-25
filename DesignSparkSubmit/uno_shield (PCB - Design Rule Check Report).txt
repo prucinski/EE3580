@@ -1,0 +1,71 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Friday, March 25, 2022
+Project Path:       D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\DesignSparkSubmit\uno_shield.prj
+Design Path:        D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\DesignSparkSubmit\uno_shield.pcb
+Design Title:       
+Created:            28.02.2019 15:41:53
+Last Saved:         25.03.2022 18:06:20
+Editing Time:       169 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+Pad to Silkscreen error (P-S) at (255.50 246.70) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+Pad to Silkscreen error (P-S) at (249.50 246.70) on layer "Top Silkscreen".
+    Silkscreen shape overlaps pad.
+
+Number of errors found : 2
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.

@@ -6,8 +6,7 @@
 #define MIN_FREQ        245
 
 void lut_setup_triangular(uint8_t* wave) {
-int i;
-
+    int i;
     for(i=0; i<128; i++)
         wave[i] = 2*i;
         
@@ -16,19 +15,22 @@ int i;
 }
 
 void lut_setup_sawtooth(uint8_t* wave) {
-int i;
-
+    int i;
     for(i=0; i<256; i++){
         wave[i] = i;
 	}
 }
 
 void lut_setup_sinusoidal(uint8_t* wave) {
-double i;
-
+    double i;
     for(i=0; i<256; i++){
-        //wave[i] = 256*sin((i/256)*2*pi);
-}
+        wave[(int)i] = 128*sin((i/256)*2*3.14)+128;
+    //debugging relic really, could convert this to lut_setup_triangular
+    //but I left it this way
+        if(i >= 128){
+            wave[(int)i] = 128*sin((i/256)*2*3.14)-128;
+        }
+    }
 
 }
 

@@ -13,8 +13,9 @@ void loop() {
   //ensuring noise in potentiometer is irrelevant
   if(abs(thisRead - prevRead) > 4){
     uint8_t dutyCycle = thisRead/4;
+    //dutyCycle varies from 0 to 255, thisRead from 0 to 1023
     carrier_62k(dutyCycle);
     prevRead = thisRead; 
   }  
-    Serial.println(analogRead(1));
+  Serial.println(analogRead(1));
   }

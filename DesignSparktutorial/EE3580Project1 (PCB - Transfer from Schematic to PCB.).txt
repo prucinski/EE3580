@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Friday, March 11, 2022
+Design Path:        D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\EE3580Project1.pcb
+Design Title:       
+Created:            11.03.2022 13:27:32
+Last Saved:         11.03.2022 13:30:56
+Editing Time:       3 min
+Units:              mm (precision 1)
+
+Net class "Power" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Ground" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

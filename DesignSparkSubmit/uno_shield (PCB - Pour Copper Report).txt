@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Friday, March 25, 2022
+Project Path:       D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\DesignSparkSubmit\uno_shield.prj
+Design Path:        D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\DesignSparkSubmit\uno_shield.pcb
+Design Title:       
+Created:            28.02.2019 15:41:53
+Last Saved:         25.03.2022 18:06:20
+Editing Time:       168 min
+Units:              mm (precision 2)
+
+
+End Of Report.

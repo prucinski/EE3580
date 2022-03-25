@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Monday, March 14, 2022
+Project Path:       D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\EE3580Project1.prj
+Design Path:        D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\EE3580Project1.pcb
+Design Title:       
+Created:            11.03.2022 13:27:32
+Last Saved:         14.03.2022 22:12:15
+Editing Time:       66 min
+Units:              mm (precision 1)
+
+
+End Of Report.

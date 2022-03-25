@@ -1,0 +1,12 @@
+ATTINY85_sym||8
+buzzer||2
+DS_A4_Template||0
+hdr1_sch||6
+hdr2_sch||8
+hdr3_sch||8
+hdr4_sch||10
+LED||2
+pushbutton||4
+R||2
+SPI||6
+thermistor||2

@@ -1,0 +1,14 @@
+ATTINY85||#DIL=8=ATTINY85_pcb||@[Description]=MICROCHIP - ATTINY85-20PU - MICROCONTROLLER MCU, 8 BIT, ATTINY, 20MHZ, DIP-8||@Manufacturer_Name=Microchip||@Manufacturer_Part_Number=ATTINY85-20PU||@RS Part Number=9214554||@RS Price/Stock=http://uk.rs-online.com/web/p/products/9214554||@Mouser Part Number=556-ATTINY85-20PU||@Mouser Price/Stock=https://www.mouser.com/Search/Refine.aspx?Keyword=556-ATTINY85-20PU||@Datasheet Link=https://componentsearchengine.com/Datasheets/2/ATTINY85-20PU.pdf||@Height=5.334 mm||@Allied_Number=||@Other Part Number=||@3D Package=
+buzzer||#Q_SIL=2=buzzer||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+drawing_area||#=0=DS_A4_Template||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+hdr1||#USER=6=hdr1_sch||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+hdr2||#USER=8=hdr2_pcb||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+hdr3||#USER=8=hdr3_pcb||@[Description]=hd3||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+hdr4||#USER=10=hdr4_pcb||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+LED||#DSC=2=LEDT175||@[Description]=Light Em Di||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Value=||@Other Part Number=||@3D Package=||@Height=
+pushbutton||#Q_SIL=4=pushbutton||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Resistor_1k||#SM=2=0805||@[Description]=Resistor||@Value=1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=||#DSC=2=DISC04||@[Description]=Resistor||@Value=1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Resistor_10k||#DSC=2=DISC04||@[Description]=Resistor||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Value=10K||@Other Part Number=||@3D Package=||@Height=
+Resistor_220||#DSC=2=DISC04||@[Description]=Resistor||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Value=220||@Other Part Number=||@3D Package=||@Height=
+spi_conn||#PGA=6=spi||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+thermistor||#USER=2=thermistor||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=

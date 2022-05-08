@@ -18,6 +18,7 @@ void loop()
 {
  // if blink found,
  getstring(myBufferCommand);
+ Serial.println(myBufferCommand);
  sscanf(myBufferCommand, "%s %s %d", command, color, &noOfBlinks);
  delay(600);
  int isEqual = strcmp(command, blinkCommand);
@@ -28,12 +29,14 @@ void loop()
     return;
   }
   if(strcmp(color,green)==0){
+   Serial.println("Green blinking");
    for(int i = 0; i <noOfBlinks*2; i++){
    PORTB ^= (1<<PB4);
    delay(200);
    }
   }
   else if(strcmp(color, red)==0){
+   Serial.println("Red blinking");
    for(int i = 0; i <noOfBlinks*2; i++){
    PORTB ^= (1<<PB5);
    delay(200);

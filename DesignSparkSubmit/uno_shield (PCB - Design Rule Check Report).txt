@@ -1,13 +1,13 @@
 Design Rule Check Report
 ------------------------
 
-Report Written:     Friday, March 25, 2022
+Report Written:     Tuesday, April 05, 2022
 Project Path:       D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\DesignSparkSubmit\uno_shield.prj
 Design Path:        D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\DesignSparkSubmit\uno_shield.pcb
 Design Title:       
-Created:            28.02.2019 15:41:53
-Last Saved:         25.03.2022 18:06:20
-Editing Time:       169 min
+Created:            28.02.2019 16:41:53
+Last Saved:         05.04.2022 10:11:07
+Editing Time:       186 min
 Units:              mm (precision 2)
 
 
@@ -18,8 +18,20 @@ Pad to Silkscreen error (P-S) at (255.50 246.70) on layer "Top Silkscreen".
     Silkscreen shape overlaps pad.
 Pad to Silkscreen error (P-S) at (249.50 246.70) on layer "Top Silkscreen".
     Silkscreen shape overlaps pad.
+Gap in Net "GND" between (239.78,279.40) and (239.80,268.66) 
+    GND.
+Gap in Net "GND" between (239.80,268.66) and (254.90,254.90) 
+    GND.
+Gap in Net "GND" between (254.90,254.90) and (262.40,256.50) 
+    GND.
+Gap in Net "GND" between (262.40,256.50) and (274.36,246.80) 
+    GND.
+Gap in Net "GND" between (274.36,246.80) and (256.54,231.14) 
+    GND.
+Gap in Net "GND" between (256.54,231.14) and (254.00,231.14) 
+    GND.
 
-Number of errors found : 2
+Number of errors found : 8
 
 
 Settings

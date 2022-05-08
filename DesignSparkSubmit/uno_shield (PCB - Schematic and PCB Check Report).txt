@@ -1,24 +1,18 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report Written:     Friday, March 25, 2022
+Report Written:     Tuesday, April 05, 2022
 Project Path:       D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\DesignSparkSubmit\uno_shield.prj
 Design Path:        D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\DesignSparkSubmit\uno_shield.pcb
 Design Title:       
-Created:            28.02.2019 15:41:53
-Last Saved:         25.03.2022 17:58:06
-Editing Time:       163 min
+Created:            28.02.2019 16:41:53
+Last Saved:         25.03.2022 19:10:52
+Editing Time:       173 min
 Units:              mm (precision 2)
 
 
-Checking integrity of Schematic "D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\DesignSparkSubmit\uno_shield.sch" with PCB "D:\Program Files\WszystkoZPulpitu\1Uniwersytet\EE3580\DesignSparkSubmit\uno_shield.pcb"
-==========================================================================================================================================================================================================================
-
-The PCB and Schematic designs do not match.
-To bring them into line, you will need to make the following changes to the PCB design:
-
-
-Component 'hdr1' package 'USER' in Schematic is newer version than PCB, use Update Component to correct this.
+Checking integrity of Schematic and Pcb designs in project "uno_shield"
+=======================================================================
 
 
 End Of Report.
